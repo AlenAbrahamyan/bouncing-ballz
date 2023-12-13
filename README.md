@@ -7,7 +7,7 @@
 
    - After making changes, run the following command to compile the TypeScript code:
 
-     ```
+     ```bash
      npx tsc
      ```
 
